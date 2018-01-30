@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8458ff760ca872437433786cab7366474a63e31">
+        <dex dex="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3a79c880a7a23a05913b8953f02d5893f59791eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\libs\IndoorscapeAlbumPlugin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4ac7ae5070911d02290331664a36475fb9a5ebb">
+        <dex dex="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\build\intermediates\transforms\dex\debug\folders\1000\2\IndoorscapeAlbumPlugin_48b91241f90a9e2a5ca3259ecfed6a8333fb3d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d54b1def6456d139731f9ea9265de55ee796993">
+        <dex dex="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_25388c6af4159dd33f0d3531b83de12f1c162aeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_8063e4a6901f35118ffb499fedc6d2abac897a63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ienin\Desktop\baidu\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7e23df6e58a2eda30a1357b765fb398098385f2d\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Tue Jan 30 14:04:48 CST 2018
+base.0=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7e23df6e58a2eda30a1357b765fb398098385f2d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3a79c880a7a23a05913b8953f02d5893f59791eb\\classes.dex
+base.1=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3a79c880a7a23a05913b8953f02d5893f59791eb
+file.0=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7e23df6e58a2eda30a1357b765fb398098385f2d\\classes.dex

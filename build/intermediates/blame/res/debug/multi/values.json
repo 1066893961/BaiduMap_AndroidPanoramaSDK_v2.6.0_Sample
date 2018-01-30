@@ -1,0 +1,315 @@
+[
+    {
+        "outputFile": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 77,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 77,
+                        "endOffset": 948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 64,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 64,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 63,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 63,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 56,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 56,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 68,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 68,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 52,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 52,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 59,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 59,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 64,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 64,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 62,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 62,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 81,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 81,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endColumn": 62,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 62,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 54,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 54,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 52,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 52,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1382
+                },
+                "from": {
+                    "file": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduMap_AndroidPanoramaSDK_v2.6.0_Sample\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]
